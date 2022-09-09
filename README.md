@@ -26,7 +26,7 @@ The gut microbiome plays a major role in the maintenance of human health. Charac
 | file | format | type | num_seqs| sum_len |min_len | avg_len | max_len |FTP|
 | ------------- |:-------------:|:-------------:|:-------------:|-----:|:-------------:|:-------------:|:-------------:|:-------------:|
 | meta-gene.fna | FASTA | DNA | 3,846,814 | 3,146,046,237 | 102 | 817.8 | 88,230 | https://drive.google.com/file/d/1QhsNAwEze2znWp5gGQN_moiLoxKGDvve/view?usp=sharing |
-| meta-gene.fna | FASTA | Protein | 3,846,814 | 1,046,887,105 | 33 | 272.1 | 29,409 | https://drive.google.com/file/d/1RxakOlTiQhxgQ9BAofyMH3hlmmy3s1nP/view?usp=sharing |
+| meta-gene.faa | FASTA | Protein | 3,846,814 | 1,046,887,105 | 33 | 272.1 | 29,409 | https://drive.google.com/file/d/1RxakOlTiQhxgQ9BAofyMH3hlmmy3s1nP/view?usp=sharing |
 
 
 This repository is administered by Nachon Raethong ([@sysbiomics](https://github.com/sysbiomics)), Department of Zoology, Faculty of Science, Kasetsart University, Bangkok, Thailand
